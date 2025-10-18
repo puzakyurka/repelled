@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Case",
+    "age": 43,
+    "address": {
+        "street": "Wilson Springs",
+        "city": "New Darryl",
+        "state": "New Hampshire",
+        "zip": "74912"
+    },
+    "contact": {
+        "phone": "+1-451-638-9765x42110",
+        "servicePhone": "800201477"
+    },
+    "birthday": "1982-18-04",
+    "ip": "147.15.96.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Particular especially smile himself. Site seek social amount as college provide. Interview magazine special choose purpose brother. Yes each issue.\nRich less able might notice home gas.",
+        "bio": "Beautiful half sense see. Mission leave full ok woman environment since. Every range policy few explain small college federal."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
