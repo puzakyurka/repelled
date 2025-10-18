@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Rodriguez",
+    "age": 72,
+    "address": {
+        "street": "Dean Plains",
+        "city": "West Madison",
+        "state": "Idaho",
+        "zip": "78058"
+    },
+    "contact": {
+        "phone": "724.929.8432x9806",
+        "servicePhone": "800067071"
+    },
+    "birthday": "1953-22-04",
+    "ip": "94.245.141.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Want whom decision source water take. Leader whose establish.\nWhite tax authority ten decade well heart.",
+        "bio": "To well respond need office south college reveal.\nIf section idea add politics contain. Congress easy thing. Design factor together soldier example bad."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}

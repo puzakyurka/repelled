@@ -1,0 +1,25 @@
+{
+    "name": "Angela Henderson",
+    "age": 16,
+    "address": {
+        "street": "Heather Island",
+        "city": "North Stephen",
+        "state": "California",
+        "zip": "79280"
+    },
+    "contact": {
+        "phone": "992.962.8575",
+        "servicePhone": "800364972"
+    },
+    "birthday": "2009-21-08",
+    "ip": "133.79.120.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Fight me western approach prevent mean family.\nRemain prevent image brother act approach. Star age program only agree free organization.",
+        "bio": "Expect standard their car such act. Card plan affect station particularly next. Real doctor network well international.\nSimilar area specific. With our reality site. Structure wife outside source."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}

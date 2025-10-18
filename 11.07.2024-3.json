@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Roman",
+    "age": 111,
+    "address": {
+        "street": "Thompson Loop",
+        "city": "Gutierrezland",
+        "state": "North Carolina",
+        "zip": "63257"
+    },
+    "contact": {
+        "phone": "219.215.8031x14497",
+        "servicePhone": "800658205"
+    },
+    "birthday": "1914-22-07",
+    "ip": "180.172.205.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Foreign know according stand. Executive popular daughter PM woman. Beautiful born natural form whom time no. Future describe crime there.",
+        "bio": "Computer decade ever generation store that. Fast dinner sense decade above.\nAnd run stage. Forget technology expect push arrive. Guy ever strong.\nThing protect place sometimes."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}

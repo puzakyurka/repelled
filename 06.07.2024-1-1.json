@@ -1,0 +1,25 @@
+{
+    "name": "Cassidy Smith",
+    "age": 96,
+    "address": {
+        "street": "Vincent Path",
+        "city": "Lake Nathanielmouth",
+        "state": "Oregon",
+        "zip": "91811"
+    },
+    "contact": {
+        "phone": "001-274-237-7186x00132",
+        "servicePhone": "800499661"
+    },
+    "birthday": "1929-08-06",
+    "ip": "47.239.156.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Talk thought skin night individual listen author. Standard open music need week thousand. Try after left story medical.",
+        "bio": "Main shoulder girl water. Seem stay answer record fund growth technology to.\nOne alone serve budget answer it. Identify could heavy what. Rise between kid girl miss customer."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Michael Sims",
+    "age": 61,
+    "address": {
+        "street": "Lamb Villages",
+        "city": "Davidsonburgh",
+        "state": "Ohio",
+        "zip": "48424"
+    },
+    "contact": {
+        "phone": "730.680.6755x5624",
+        "servicePhone": "800094780"
+    },
+    "birthday": "1964-03-10",
+    "ip": "85.71.165.241",
+    "foo": "bar",
+    "profile": {
+        "about": "View three direction interesting I. Nation game answer world economy spring west woman. Operation cut purpose response grow.",
+        "bio": "High interview trip special group. Red probably subject specific authority study two.\nBring whom quality cold discuss to likely. Central wrong into people."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}

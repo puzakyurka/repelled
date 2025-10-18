@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Carter",
+    "age": 82,
+    "address": {
+        "street": "Rodriguez Stream",
+        "city": "Joannaton",
+        "state": "Montana",
+        "zip": "14128"
+    },
+    "contact": {
+        "phone": "360-444-3601",
+        "servicePhone": "800335401"
+    },
+    "birthday": "1943-09-10",
+    "ip": "213.9.154.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Increase fly yes it. She begin leader right enjoy. Attack job trial effort pattern air adult.\nEat large involve responsibility beautiful cold.",
+        "bio": "Sure interest wind would stuff store. Deep just suggest thus model wear second. Choose or save music air team.\nPerson law result coach perhaps. To interesting laugh despite discuss sit."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}

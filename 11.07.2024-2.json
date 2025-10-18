@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Adams",
+    "age": 14,
+    "address": {
+        "street": "Adam Parkway",
+        "city": "New Sean",
+        "state": "Maine",
+        "zip": "01030"
+    },
+    "contact": {
+        "phone": "726.692.9031x17616",
+        "servicePhone": "800720923"
+    },
+    "birthday": "2011-14-01",
+    "ip": "182.192.254.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Suffer positive bag treatment his foreign customer cultural. Wrong movie relationship deep collection hotel. Billion hot action record science kitchen consider.",
+        "bio": "Remain air behavior eye address young card. Today affect weight maintain administration laugh.\nDemocratic third show. Forget research only if well. Six care before."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Mcdonald",
+    "age": 19,
+    "address": {
+        "street": "Luis Station",
+        "city": "West Robert",
+        "state": "Maine",
+        "zip": "85445"
+    },
+    "contact": {
+        "phone": "+1-931-719-5417x515",
+        "servicePhone": "800849045"
+    },
+    "birthday": "2006-18-05",
+    "ip": "32.99.160.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Fact instead when provide lay simple ready table. Where expect road think trial east. I course bag use question goal member.",
+        "bio": "Ball way sister book just black seem. Also adult that staff recently treatment. Specific modern mean process.\nSociety partner answer include budget. Family threat site character thus high."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
