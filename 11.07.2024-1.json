@@ -1,0 +1,25 @@
+{
+    "name": "Frank Pierce",
+    "age": 40,
+    "address": {
+        "street": "Jerry Ridge",
+        "city": "Reynoldsport",
+        "state": "Florida",
+        "zip": "88078"
+    },
+    "contact": {
+        "phone": "(736)551-8609",
+        "servicePhone": "800565813"
+    },
+    "birthday": "1985-05-11",
+    "ip": "55.125.200.174",
+    "foo": "bar",
+    "profile": {
+        "about": "East skill group organization indeed case scene. Beautiful choose page senior drug.",
+        "bio": "Indicate pressure three my. Since major place probably. Soon environmental voice turn beat itself town. Everyone out specific create."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
