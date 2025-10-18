@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Pearson",
+    "age": 22,
+    "address": {
+        "street": "Shawn Wall",
+        "city": "Vincentmouth",
+        "state": "South Dakota",
+        "zip": "99596"
+    },
+    "contact": {
+        "phone": "(814)207-9913x372",
+        "servicePhone": "800785144"
+    },
+    "birthday": "2003-08-12",
+    "ip": "77.219.23.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Purpose military we development.\nAnimal great tree way. Believe set all. Hotel next base research field central.\nStand whether buy team. Bit practice state federal right.",
+        "bio": "Lay talk player avoid rest save. Painting direction should nation my us. Ahead vote plan on need anything could."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
