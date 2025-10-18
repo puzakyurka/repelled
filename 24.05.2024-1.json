@@ -1,0 +1,25 @@
+{
+    "name": "Michael Johnson",
+    "age": 60,
+    "address": {
+        "street": "Benjamin Vista",
+        "city": "Reevesfurt",
+        "state": "New Jersey",
+        "zip": "85812"
+    },
+    "contact": {
+        "phone": "(593)438-3464x188",
+        "servicePhone": "800712972"
+    },
+    "birthday": "1965-15-03",
+    "ip": "186.196.174.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Hair model hard very event push. Development art face blue out effort. Foot when low eat.\nThis process campaign again old agency simply.",
+        "bio": "Head put environmental their star represent. Each reflect break room behavior. By enjoy letter body. Evening else ok apply."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
