@@ -1,0 +1,25 @@
+{
+    "name": "Veronica Cunningham",
+    "age": 113,
+    "address": {
+        "street": "Jade Valley",
+        "city": "North Anthony",
+        "state": "Arizona",
+        "zip": "16709"
+    },
+    "contact": {
+        "phone": "591.599.0628x6376",
+        "servicePhone": "800183892"
+    },
+    "birthday": "1912-13-10",
+    "ip": "18.86.97.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Nearly point its personal alone. Probably something impact happy successful.\nKnow lawyer here along. Small describe sea. Reduce PM appear who president sometimes question.",
+        "bio": "Day girl eat air article appear management production. Certain action now cultural item place.\nCareer personal authority medical pattern notice certain. Boy ten sometimes record check reduce."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
