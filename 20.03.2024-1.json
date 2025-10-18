@@ -1,0 +1,25 @@
+{
+    "name": "Michael Pope",
+    "age": 21,
+    "address": {
+        "street": "Brittany Harbors",
+        "city": "Port Lynn",
+        "state": "Kentucky",
+        "zip": "03332"
+    },
+    "contact": {
+        "phone": "575.554.3317",
+        "servicePhone": "800729454"
+    },
+    "birthday": "2004-01-06",
+    "ip": "138.101.232.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation catch in appear get husband top.\nFill a account himself. Say inside certain. Process hold hair role then resource more clearly. Maintain lead right size.",
+        "bio": "Common happen job large as together.\nDown item grow lead Republican player drive west."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
