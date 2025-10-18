@@ -1,0 +1,25 @@
+{
+    "name": "Gloria Mueller",
+    "age": 2,
+    "address": {
+        "street": "Cynthia Port",
+        "city": "East Justinland",
+        "state": "Georgia",
+        "zip": "70357"
+    },
+    "contact": {
+        "phone": "(321)904-6236x0068",
+        "servicePhone": "800818165"
+    },
+    "birthday": "2023-11-10",
+    "ip": "26.205.165.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Out short add movement whole mention. Make couple air blood. Our send lose seem center real phone.\nMagazine air cause still. Get way court ground bed including view. Visit heavy high.",
+        "bio": "Pay right case question participant particularly. Field threat people election mother."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
