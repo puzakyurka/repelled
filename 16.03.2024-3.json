@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Meyer",
+    "age": 115,
+    "address": {
+        "street": "Thomas Islands",
+        "city": "Gregorymouth",
+        "state": "New Jersey",
+        "zip": "95339"
+    },
+    "contact": {
+        "phone": "701.729.6016",
+        "servicePhone": "800880121"
+    },
+    "birthday": "1910-21-06",
+    "ip": "218.13.179.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Just experience detail happen herself thought rich maybe. Argue language plan young there. Season available since form. Student service final human moment.",
+        "bio": "Answer reflect chair sure condition admit. Of condition home wind also. Certain push compare else say stop.\nHouse special none author. Benefit suggest back improve tough."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
