@@ -1,0 +1,25 @@
+{
+    "name": "Monica West",
+    "age": 14,
+    "address": {
+        "street": "Lopez Spring",
+        "city": "Thomasville",
+        "state": "Nevada",
+        "zip": "20898"
+    },
+    "contact": {
+        "phone": "932-902-3646x7302",
+        "servicePhone": "800328076"
+    },
+    "birthday": "2011-06-11",
+    "ip": "193.112.235.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Rate early per who age. Reason agency budget result white easy. Million technology each theory occur.",
+        "bio": "Boy though including. Car morning build image quite church family. Fly take true everybody.\nRather possible want southern reach style road pretty. Job main class order cell."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
