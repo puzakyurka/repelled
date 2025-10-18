@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Martinez",
+    "age": 98,
+    "address": {
+        "street": "Herrera Fords",
+        "city": "Amandafurt",
+        "state": "Kentucky",
+        "zip": "82526"
+    },
+    "contact": {
+        "phone": "001-447-204-6783x4582",
+        "servicePhone": "800878516"
+    },
+    "birthday": "1927-05-05",
+    "ip": "105.8.242.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Themselves role force next prepare. Mouth role consider magazine they. White doctor continue star though technology. Work head street color popular herself.",
+        "bio": "Anyone under law with national. Fine everything skin plan add thing.\nSimilar soldier project attention door Mr visit. Him this lawyer identify daughter talk money. Society guess me old."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
