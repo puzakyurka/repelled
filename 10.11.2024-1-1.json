@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Jimenez",
+    "age": 109,
+    "address": {
+        "street": "Daniel Cliff",
+        "city": "South Johnport",
+        "state": "Arizona",
+        "zip": "28166"
+    },
+    "contact": {
+        "phone": "3568315154",
+        "servicePhone": "800696885"
+    },
+    "birthday": "1916-18-06",
+    "ip": "192.109.52.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Seven catch within share seem prevent save. Light choose pick everyone. Fast short factor he senior.\nTown community them board recent when. Strategy exactly coach model result deal.",
+        "bio": "By film technology. Rest soon learn trade group.\nCustomer occur answer set authority. Its force ago change edge car interview. Hope threat machine fear him we."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
