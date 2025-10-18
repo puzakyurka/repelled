@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Green",
+    "age": 16,
+    "address": {
+        "street": "Robinson Squares",
+        "city": "South Heather",
+        "state": "Minnesota",
+        "zip": "14279"
+    },
+    "contact": {
+        "phone": "(228)811-8670",
+        "servicePhone": "800358141"
+    },
+    "birthday": "2009-25-05",
+    "ip": "108.13.32.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation happy direction listen year let open. Time specific project allow control really.\nPicture around painting. Administration under hundred table expect list race determine.",
+        "bio": "Standard dog commercial. Couple man risk floor risk grow artist.\nEnergy Democrat during catch. Nearly firm pick ready program of key nice. Enter success attack still yourself training wish."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
