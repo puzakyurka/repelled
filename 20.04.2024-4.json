@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Brewer",
+    "age": 60,
+    "address": {
+        "street": "Moore Villages",
+        "city": "Deborahland",
+        "state": "Massachusetts",
+        "zip": "87476"
+    },
+    "contact": {
+        "phone": "(740)806-0876x53056",
+        "servicePhone": "800958221"
+    },
+    "birthday": "1965-27-11",
+    "ip": "195.91.205.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Argue role cold painting plan identify. Method form within series with. Close sense issue theory country body popular partner.",
+        "bio": "Picture issue skill. Million believe husband voice. Friend up few finally share.\nBelieve boy your."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
