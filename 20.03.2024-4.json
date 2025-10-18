@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Rodriguez",
+    "age": 14,
+    "address": {
+        "street": "Anthony Junctions",
+        "city": "North Dawn",
+        "state": "Oregon",
+        "zip": "76999"
+    },
+    "contact": {
+        "phone": "956.488.5885x2859",
+        "servicePhone": "800288691"
+    },
+    "birthday": "2011-23-12",
+    "ip": "219.58.128.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Lot nature bill politics tax. Likely join together let behavior statement. Suddenly money wind strong high enjoy home.\nEvery nearly perform do. Fact as modern order.",
+        "bio": "Growth up we free their memory well meet. Couple admit new church. Traditional west court writer someone. Rich catch glass."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}

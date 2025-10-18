@@ -1,0 +1,25 @@
+{
+    "name": "Edward Black",
+    "age": 51,
+    "address": {
+        "street": "Keith Heights",
+        "city": "Port Davidview",
+        "state": "Florida",
+        "zip": "81367"
+    },
+    "contact": {
+        "phone": "798-995-1407x22447",
+        "servicePhone": "800515192"
+    },
+    "birthday": "1974-09-03",
+    "ip": "114.66.143.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Summer born local. Policy agent actually government alone fight past her. Reason operation office thousand stop image.",
+        "bio": "Point how old article ready offer.\nTelevision could customer unit serious level even red. Establish wind tell plant help history how grow. Forget husband behavior talk similar seven."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}

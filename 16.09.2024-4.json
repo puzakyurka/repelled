@@ -1,0 +1,25 @@
+{
+    "name": "Emily Burns",
+    "age": 85,
+    "address": {
+        "street": "Gillespie Shoals",
+        "city": "Timothyfurt",
+        "state": "Alabama",
+        "zip": "32874"
+    },
+    "contact": {
+        "phone": "+1-809-842-9828x732",
+        "servicePhone": "800234333"
+    },
+    "birthday": "1940-23-09",
+    "ip": "72.170.67.230",
+    "foo": "bar",
+    "profile": {
+        "about": "National edge back forward. Hot personal argue book sure standard. Think among goal human.",
+        "bio": "Without energy sound let list. Role approach name.\nDog best news bit.\nEnter seat argue foreign. Rock television remember force political. Sometimes care mother above night whole."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Porter",
+    "age": 30,
+    "address": {
+        "street": "Lopez Road",
+        "city": "North Christopherstad",
+        "state": "Florida",
+        "zip": "47283"
+    },
+    "contact": {
+        "phone": "936-804-0771x724",
+        "servicePhone": "800524359"
+    },
+    "birthday": "1995-02-12",
+    "ip": "86.150.133.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Event arm street part. High raise future throw hold computer different say. Much machine these article law experience weight.",
+        "bio": "Challenge evidence everyone sound mother time.\nNumber happen American similar. Face leader decide base stand office yourself.\nOffer red notice professor design. Difficult movie far last thought high."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

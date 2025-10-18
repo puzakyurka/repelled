@@ -1,0 +1,25 @@
+{
+    "name": "Steven Williams",
+    "age": 109,
+    "address": {
+        "street": "Larson Isle",
+        "city": "Davisshire",
+        "state": "Texas",
+        "zip": "94730"
+    },
+    "contact": {
+        "phone": "(842)209-2380",
+        "servicePhone": "800405739"
+    },
+    "birthday": "1916-19-01",
+    "ip": "152.144.198.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Environment together understand table. House score expert east scene work.\nRoom wind ball theory item exist example. Fast take mission increase since. Level five season radio.",
+        "bio": "Remember suffer involve poor culture TV defense weight. His pull because carry sign.\nLow type though fear east look anyone. Enough age must away. Mission never so professional figure."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}

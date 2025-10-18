@@ -1,0 +1,25 @@
+{
+    "name": "Julie Richards",
+    "age": 23,
+    "address": {
+        "street": "David Street",
+        "city": "Lake Roberttown",
+        "state": "Tennessee",
+        "zip": "39331"
+    },
+    "contact": {
+        "phone": "408.465.1498x69764",
+        "servicePhone": "800410621"
+    },
+    "birthday": "2002-26-10",
+    "ip": "223.217.135.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Break kind that expert. Kind crime impact across assume. Together serious condition head.",
+        "bio": "Themselves hot almost crime. Talk teach financial those. Sound create tough. Wait consider teach try computer worry process.\nAnswer name in page nice relate for top. Claim traditional energy."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}

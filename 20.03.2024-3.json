@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Dennis",
+    "age": 84,
+    "address": {
+        "street": "David Corner",
+        "city": "East Josephside",
+        "state": "Kentucky",
+        "zip": "89423"
+    },
+    "contact": {
+        "phone": "505-456-8106",
+        "servicePhone": "800905349"
+    },
+    "birthday": "1941-27-04",
+    "ip": "209.140.131.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Top one where exist its town. Tree occur maybe keep area. Power enough nothing quality attention.\nHope attorney weight agency. Themselves material rate carry strategy from. Use with room.",
+        "bio": "Door professional administration phone.\nHair affect life culture moment standard. Else room generation explain. Management leader bar military experience enter mention professional."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
