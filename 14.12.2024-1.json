@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Mcmillan",
+    "age": 0,
+    "address": {
+        "street": "Alexander Bypass",
+        "city": "Dickersonside",
+        "state": "Connecticut",
+        "zip": "52408"
+    },
+    "contact": {
+        "phone": "5654810395",
+        "servicePhone": "800868304"
+    },
+    "birthday": "2025-11-09",
+    "ip": "133.165.38.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Claim key military sell other detail environmental employee. Mother moment hundred maybe customer financial.",
+        "bio": "Water answer professional against image five. Concern ahead central write build behind. Their race say life receive. Participant table war claim defense."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
