@@ -1,0 +1,25 @@
+{
+    "name": "Mark Larsen",
+    "age": 42,
+    "address": {
+        "street": "Cameron Underpass",
+        "city": "Johnsonland",
+        "state": "Idaho",
+        "zip": "75090"
+    },
+    "contact": {
+        "phone": "001-724-830-3601x162",
+        "servicePhone": "800713186"
+    },
+    "birthday": "1983-14-06",
+    "ip": "80.142.106.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Point feeling several add lead subject character. Sea including board physical hair expert brother. Sort indicate cold energy six walk American.",
+        "bio": "Culture population wide happen behavior. Fly force one senior detail year machine maybe.\nThese under minute ready prepare. Produce sport bed interesting direction. Record court development."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
