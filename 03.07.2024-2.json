@@ -1,0 +1,25 @@
+{
+    "name": "Cassandra Carter",
+    "age": 88,
+    "address": {
+        "street": "Alex Curve",
+        "city": "North Mary",
+        "state": "Utah",
+        "zip": "09730"
+    },
+    "contact": {
+        "phone": "720-421-1072",
+        "servicePhone": "800472688"
+    },
+    "birthday": "1937-24-10",
+    "ip": "7.48.166.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole trade lose apply military. Mouth everyone television successful identify lay. Big all figure ahead produce dog.",
+        "bio": "Record which probably church Republican represent. Wait opportunity market woman tonight manager. How discuss deal main. Probably bring single policy camera feeling."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}

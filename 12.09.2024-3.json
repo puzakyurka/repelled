@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Guerra",
+    "age": 13,
+    "address": {
+        "street": "Smith Ports",
+        "city": "New Lauren",
+        "state": "South Carolina",
+        "zip": "12381"
+    },
+    "contact": {
+        "phone": "5024726118",
+        "servicePhone": "800784970"
+    },
+    "birthday": "2012-24-12",
+    "ip": "63.103.104.53",
+    "foo": "bar",
+    "profile": {
+        "about": "From can wrong letter. Garden exactly tend final state growth. Network ground smile heavy until.\nParticipant main turn better not value then stuff. Tv beat treat away.",
+        "bio": "Page economy those look partner current. Economy foot information my base.\nWife year common who health. Say already maybe plan. Light environment social get relate."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}

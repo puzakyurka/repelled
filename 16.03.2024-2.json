@@ -1,0 +1,25 @@
+{
+    "name": "Mark Kent",
+    "age": 22,
+    "address": {
+        "street": "Miranda Mall",
+        "city": "East Ryanfort",
+        "state": "Arkansas",
+        "zip": "37852"
+    },
+    "contact": {
+        "phone": "+1-528-814-6634",
+        "servicePhone": "800263001"
+    },
+    "birthday": "2003-07-02",
+    "ip": "86.120.88.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Young than participant should. Save feel blue job design public.\nDecision nothing though art partner woman example.\nSocial anyone each. Stay peace spend audience data technology despite.",
+        "bio": "Check onto grow center statement. Three effect challenge firm newspaper tree. Thing since cold we it according.\nCouple theory understand bill. Trip sell source win dog course."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
