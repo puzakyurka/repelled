@@ -1,0 +1,25 @@
+{
+    "name": "Julia Hunter",
+    "age": 92,
+    "address": {
+        "street": "Smith Isle",
+        "city": "Jenniferhaven",
+        "state": "Delaware",
+        "zip": "25175"
+    },
+    "contact": {
+        "phone": "+1-248-816-3211x6491",
+        "servicePhone": "800054098"
+    },
+    "birthday": "1933-31-08",
+    "ip": "47.129.134.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Adult kind already including wrong rate forget. Follow executive rather ago. City tonight factor oil magazine.\nTown rich fill matter. National worry seat school to PM.",
+        "bio": "Ball similar then organization it. Show bag relationship nice color. Gas also staff.\nWish range there. Condition investment enjoy million entire. Past success state onto list."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
