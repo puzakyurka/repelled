@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Park",
+    "age": 111,
+    "address": {
+        "street": "Kevin Mills",
+        "city": "New Dennis",
+        "state": "Illinois",
+        "zip": "29292"
+    },
+    "contact": {
+        "phone": "615.550.1497",
+        "servicePhone": "800638268"
+    },
+    "birthday": "1914-25-07",
+    "ip": "117.189.210.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Leg common want. Market front receive give occur establish our. Scientist media executive maintain week technology. Establish at police teach international.",
+        "bio": "Take but miss perhaps half likely responsibility range. Picture natural white stage product staff court oil. History among team remain month woman."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
