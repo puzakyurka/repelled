@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Cain",
+    "age": 72,
+    "address": {
+        "street": "Ward Estate",
+        "city": "Lyonsville",
+        "state": "Maine",
+        "zip": "84869"
+    },
+    "contact": {
+        "phone": "433-964-2854x26128",
+        "servicePhone": "800146232"
+    },
+    "birthday": "1953-30-09",
+    "ip": "162.43.6.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Republican movie somebody space. Whole year recent describe several business rate.\nDiscussion talk eight risk condition than across. Letter between hospital yard.",
+        "bio": "Into answer account training young. Necessary get center decision ground information mind walk.\nAble mind girl. Management news business report fire environmental player man."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
