@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Gonzalez",
+    "age": 3,
+    "address": {
+        "street": "Velazquez Flat",
+        "city": "Brendafurt",
+        "state": "Maryland",
+        "zip": "81528"
+    },
+    "contact": {
+        "phone": "001-530-351-4907x45388",
+        "servicePhone": "800886949"
+    },
+    "birthday": "2022-07-11",
+    "ip": "57.245.219.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Blue much six determine strategy finally stage. Garden quality admit through though.\nAmong try speech apply. Mean policy bank ground seek change.",
+        "bio": "Nation cover election start down. Subject herself democratic fish. Tv matter third entire."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
