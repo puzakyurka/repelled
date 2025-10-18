@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Hawkins",
+    "age": 38,
+    "address": {
+        "street": "Christian Tunnel",
+        "city": "Garciashire",
+        "state": "Montana",
+        "zip": "22833"
+    },
+    "contact": {
+        "phone": "829-682-5261x795",
+        "servicePhone": "800011762"
+    },
+    "birthday": "1987-21-11",
+    "ip": "177.43.244.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Start development environment. Whole wide prepare next positive sure.\nDevelop white response child statement a. Generation operation both suffer year practice deep behavior.",
+        "bio": "Road actually street popular. Forward force instead skin popular write. Cut money view practice think film last."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
