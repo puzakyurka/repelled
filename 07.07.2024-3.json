@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Mcclure",
+    "age": 41,
+    "address": {
+        "street": "Brendan Stream",
+        "city": "East Elizabeth",
+        "state": "Vermont",
+        "zip": "60659"
+    },
+    "contact": {
+        "phone": "411-691-6267x47665",
+        "servicePhone": "800679266"
+    },
+    "birthday": "1984-02-05",
+    "ip": "77.118.167.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Age use card south front view. Civil water reason federal religious art policy company. Produce cost piece other.",
+        "bio": "Instead which remember American special over per form. However leader fear political development ok.\nCultural hair into doctor ahead hear later. Idea money fund price if head. Mother law fire fact."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
