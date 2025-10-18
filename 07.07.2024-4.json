@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Brandon Graves",
+    "age": 109,
+    "address": {
+        "street": "Edward Gardens",
+        "city": "Stephaniebury",
+        "state": "Alaska",
+        "zip": "17109"
+    },
+    "contact": {
+        "phone": "610-963-6142x231",
+        "servicePhone": "800009331"
+    },
+    "birthday": "1916-31-01",
+    "ip": "122.28.233.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Since door worry reveal window space. Have cup moment safe play. Voice herself continue mean south reveal.\nContinue front fear account physical have.",
+        "bio": "Kind drop there size risk soon agency. Star bag put enjoy especially organization event. Recently week leader door game practice something."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
