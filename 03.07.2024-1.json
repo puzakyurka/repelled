@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Hernandez",
+    "age": 112,
+    "address": {
+        "street": "Yang Corners",
+        "city": "Port Virginia",
+        "state": "Kentucky",
+        "zip": "14437"
+    },
+    "contact": {
+        "phone": "001-648-269-5653x09612",
+        "servicePhone": "800233094"
+    },
+    "birthday": "1913-05-03",
+    "ip": "174.61.23.223",
+    "foo": "bar",
+    "profile": {
+        "about": "School maybe one bad miss blood between. Sign history maybe next after. Cold hard individual.\nCitizen big in spend. Executive physical star certain. Rest common significant.",
+        "bio": "Environment fact huge. Food culture impact player when. Both expect picture price six seven piece.\nLarge side must professor respond more quite. Even trial high."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
