@@ -1,0 +1,25 @@
+{
+    "name": "Madison Rasmussen",
+    "age": 88,
+    "address": {
+        "street": "Galloway Curve",
+        "city": "Port Kimberly",
+        "state": "Pennsylvania",
+        "zip": "61396"
+    },
+    "contact": {
+        "phone": "(835)295-0915x83601",
+        "servicePhone": "800231758"
+    },
+    "birthday": "1937-19-11",
+    "ip": "192.85.237.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Begin find game part realize a professor. Glass check fund if teach only second. Same coach simple picture once travel.",
+        "bio": "Pressure drop true friend. Stay lay home possible attention.\nSea range control prevent program talk sit. Choice wait room issue card bit. Beautiful poor morning new wish."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
