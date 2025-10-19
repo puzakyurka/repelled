@@ -1,0 +1,25 @@
+{
+    "name": "Adrian Oconnell",
+    "age": 44,
+    "address": {
+        "street": "Baker Shores",
+        "city": "North Amymouth",
+        "state": "Iowa",
+        "zip": "93574"
+    },
+    "contact": {
+        "phone": "487.787.1353",
+        "servicePhone": "800719630"
+    },
+    "birthday": "1981-15-09",
+    "ip": "195.73.170.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Money occur interest note.\nYear site use paper moment friend option. Nor room win later guess. Attack seven education right guess choose probably.",
+        "bio": "Cover than food size mention wide. Tax able few college. Over next kitchen less light."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}

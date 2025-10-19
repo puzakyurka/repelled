@@ -1,0 +1,25 @@
+{
+    "name": "Cindy Williams",
+    "age": 73,
+    "address": {
+        "street": "Jessica Turnpike",
+        "city": "Shawnberg",
+        "state": "Minnesota",
+        "zip": "42061"
+    },
+    "contact": {
+        "phone": "001-565-415-6114x8712",
+        "servicePhone": "800060558"
+    },
+    "birthday": "1952-09-09",
+    "ip": "19.199.25.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Only century Mrs parent. Newspaper law this cut not. Section notice sound yet catch speak.",
+        "bio": "Seat he lot statement always leader. Administration go music clearly true per involve. Listen successful full."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}

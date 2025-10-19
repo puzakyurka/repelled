@@ -1,0 +1,25 @@
+{
+    "name": "Holly Shea",
+    "age": 85,
+    "address": {
+        "street": "Tara Knolls",
+        "city": "Savagehaven",
+        "state": "Colorado",
+        "zip": "13215"
+    },
+    "contact": {
+        "phone": "(758)676-1236",
+        "servicePhone": "800700890"
+    },
+    "birthday": "1940-29-10",
+    "ip": "64.138.210.176",
+    "foo": "bar",
+    "profile": {
+        "about": "State care business movie mean movie. Girl later magazine rule. Book begin despite letter central human office.",
+        "bio": "Summer yard different break wide clearly create. Degree bed commercial science.\nRole force quite. Attention ten collection language. Discuss film tax day dark group."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}

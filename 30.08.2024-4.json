@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Chavez",
+    "age": 109,
+    "address": {
+        "street": "Jessica Expressway",
+        "city": "South Edwardmouth",
+        "state": "Nebraska",
+        "zip": "15365"
+    },
+    "contact": {
+        "phone": "(949)364-5102",
+        "servicePhone": "800710011"
+    },
+    "birthday": "1916-06-04",
+    "ip": "56.97.250.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Collection class key product fact. Effort which leader heavy moment remain detail owner. Campaign me bar.",
+        "bio": "Song fly become forward. Like trip happy able fire officer concern. Part change study movement suffer action sure. House generation maybe next chance case."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Michael Taylor",
+    "age": 45,
+    "address": {
+        "street": "Matthew Gateway",
+        "city": "Port Sabrinaberg",
+        "state": "New Mexico",
+        "zip": "34537"
+    },
+    "contact": {
+        "phone": "+1-304-516-5823x04781",
+        "servicePhone": "800027910"
+    },
+    "birthday": "1980-19-08",
+    "ip": "37.254.147.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Actually require church site office. Add source car.\nStar enter environment old along six whom change. Loss clear second seven only which catch.",
+        "bio": "Property amount else understand woman common enter. Do writer remember about outside one expert. Necessary bill exist explain."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}

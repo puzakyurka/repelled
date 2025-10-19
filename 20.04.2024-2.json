@@ -1,0 +1,25 @@
+{
+    "name": "Kendra Savage",
+    "age": 41,
+    "address": {
+        "street": "Richardson Lights",
+        "city": "Hatfieldborough",
+        "state": "Nebraska",
+        "zip": "47596"
+    },
+    "contact": {
+        "phone": "653-302-4636x67125",
+        "servicePhone": "800276832"
+    },
+    "birthday": "1984-14-02",
+    "ip": "157.123.92.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Decide become bill organization himself. Learn statement expert medical so organization.\nEnd go history. Agent forward perform identify between.",
+        "bio": "Perform service each condition four long. Girl power source strategy customer do piece."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
