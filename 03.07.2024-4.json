@@ -1,0 +1,25 @@
+{
+    "name": "Victor Barnes",
+    "age": 65,
+    "address": {
+        "street": "Morris Passage",
+        "city": "Lisabury",
+        "state": "Pennsylvania",
+        "zip": "01668"
+    },
+    "contact": {
+        "phone": "491.322.1164x2049",
+        "servicePhone": "800808986"
+    },
+    "birthday": "1960-07-06",
+    "ip": "179.173.100.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Ball south child son fly reality study interview. According experience especially war physical plant notice minute. Expert tell boy wall listen bar daughter for.",
+        "bio": "Green available clearly. Respond soon unit public continue item political maybe.\nMeeting usually property bit financial million I. Until gun source true. None science room because very."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}

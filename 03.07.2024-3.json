@@ -1,0 +1,25 @@
+{
+    "name": "Brian Jacobs",
+    "age": 10,
+    "address": {
+        "street": "Paul Trafficway",
+        "city": "West Christine",
+        "state": "Iowa",
+        "zip": "00912"
+    },
+    "contact": {
+        "phone": "443-626-2884",
+        "servicePhone": "800976941"
+    },
+    "birthday": "2015-25-02",
+    "ip": "89.85.246.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Employee eat house woman. Arrive memory benefit stay. Something quickly magazine kid. Nature marriage by camera painting commercial.\nWear end check should goal. Long old these south leave.",
+        "bio": "Through whose agree image unit. Need fear or type.\nSecond indeed court commercial fight agency. Plant three suggest shoulder member shake option. Management task type establish skill could case."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}

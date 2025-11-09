@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Foster",
+    "age": 56,
+    "address": {
+        "street": "Stacey Plain",
+        "city": "Amandabury",
+        "state": "Louisiana",
+        "zip": "40965"
+    },
+    "contact": {
+        "phone": "582.859.3619x619",
+        "servicePhone": "800783576"
+    },
+    "birthday": "1969-30-09",
+    "ip": "4.220.105.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Three Congress little read care. Left right social above include throw we. Security treatment cause new single alone.\nEnvironmental their attorney.",
+        "bio": "Their drop that nearly manage small some. Because move maintain. Political study pass matter clearly behavior professor."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}

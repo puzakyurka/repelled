@@ -1,0 +1,25 @@
+{
+    "name": "Melinda Smith",
+    "age": 25,
+    "address": {
+        "street": "Day Mountain",
+        "city": "Aaronmouth",
+        "state": "Oregon",
+        "zip": "26595"
+    },
+    "contact": {
+        "phone": "001-463-537-4502x56490",
+        "servicePhone": "800132379"
+    },
+    "birthday": "2000-21-01",
+    "ip": "163.196.222.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Strategy provide great resource raise. Behavior pass detail surface mission. Tend response want mention.\nEffort seven reality imagine shoulder road score structure. Hour coach especially.",
+        "bio": "Analysis son lawyer south side. Price also today miss never.\nGo quality management piece near subject. I into during improve somebody international."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

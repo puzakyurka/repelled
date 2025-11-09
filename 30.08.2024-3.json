@@ -1,0 +1,25 @@
+{
+    "name": "Mark Jennings",
+    "age": 93,
+    "address": {
+        "street": "Karen Fields",
+        "city": "Cassidystad",
+        "state": "Missouri",
+        "zip": "69119"
+    },
+    "contact": {
+        "phone": "9146263089",
+        "servicePhone": "800654303"
+    },
+    "birthday": "1932-16-03",
+    "ip": "59.239.245.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Ten new week painting. Election possible share military level painting guess.\nUnderstand remember commercial call.",
+        "bio": "Kid road commercial pick just finally. Off live through remain. Space go with."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}

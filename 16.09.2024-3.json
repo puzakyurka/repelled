@@ -1,0 +1,25 @@
+{
+    "name": "Norman Barrett",
+    "age": 65,
+    "address": {
+        "street": "Hughes Falls",
+        "city": "Davismouth",
+        "state": "Massachusetts",
+        "zip": "83364"
+    },
+    "contact": {
+        "phone": "+1-948-666-7164x99178",
+        "servicePhone": "800296007"
+    },
+    "birthday": "1960-24-05",
+    "ip": "3.237.76.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Security relate thus center consumer it. Citizen together practice few Republican into. About current measure investment health.\nFederal treat else usually start.",
+        "bio": "Deep view allow its. Hard skin onto away.\nBad should floor keep. Upon spend sell apply common place country. Available join owner."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}

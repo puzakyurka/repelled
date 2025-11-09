@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Ritter",
+    "age": 113,
+    "address": {
+        "street": "Jeffery Via",
+        "city": "South Donald",
+        "state": "Delaware",
+        "zip": "51021"
+    },
+    "contact": {
+        "phone": "660-889-9487",
+        "servicePhone": "800065532"
+    },
+    "birthday": "1912-05-06",
+    "ip": "165.128.178.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Voice world nation writer suddenly. Purpose audience responsibility whatever she someone. Two direction standard black support crime network.",
+        "bio": "Doctor media line protect. Public a himself see discover tonight.\nGreen my truth occur federal whose option. There expect law phone what enter guy."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

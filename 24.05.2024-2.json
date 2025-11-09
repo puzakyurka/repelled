@@ -1,0 +1,25 @@
+{
+    "name": "Mary Harris",
+    "age": 85,
+    "address": {
+        "street": "Green Junction",
+        "city": "Port Stephaniehaven",
+        "state": "New Jersey",
+        "zip": "18492"
+    },
+    "contact": {
+        "phone": "262.812.3790x6283",
+        "servicePhone": "800287604"
+    },
+    "birthday": "1940-04-11",
+    "ip": "215.130.126.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Stop space without effect long stand recent. Be particular order short sense until in. Suggest suddenly choose over reduce agency sometimes as. Point next prevent of.",
+        "bio": "Similar religious keep market. Involve serve base ground conference none. Matter account family sell pressure evening region."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
