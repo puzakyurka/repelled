@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Elizabeth Smith",
+    "age": 60,
+    "address": {
+        "street": "Williams Manors",
+        "city": "South Jesse",
+        "state": "South Carolina",
+        "zip": "55550"
+    },
+    "contact": {
+        "phone": "5823772797",
+        "servicePhone": "800701133"
+    },
+    "birthday": "1965-04-09",
+    "ip": "4.230.217.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Amount answer according develop read. Difference matter join speech relate. Beautiful every threat school picture.",
+        "bio": "Worry place city finish run quite to act. Energy street meet often admit type realize court. Wish garden our again together increase.\nLater paper out manage. Less before especially six I whom speak."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
